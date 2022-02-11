@@ -533,6 +533,7 @@ offset option. Consider, for example, the following C major scale:
 
 ```humdrum
 **kern
+c
 d
 e
 f
